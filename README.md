@@ -8,7 +8,7 @@ We build practical tools for WordPress and WooCommerce projects, with a focus on
 
 - Plugin catalog: https://pluginswordpress.calliope.com.ar/
 - Institutional site: https://calliope.com.ar/
-- Technical contact: calliopeplugins@gmail.com
+- Technical contact: contacto@calliope.com.ar
 
 ## Project Status
 
@@ -24,4 +24,4 @@ Pro products are distributed only through the official CalliopeWP channels and s
 
 ## Support
 
-For technical support, security reports, or plugin-related questions, contact: calliopeplugins@gmail.com
+For technical support, security reports, or plugin-related questions, contact: contacto@calliope.com.ar
